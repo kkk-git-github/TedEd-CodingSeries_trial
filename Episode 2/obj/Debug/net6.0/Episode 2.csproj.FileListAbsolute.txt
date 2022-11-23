@@ -1,0 +1,5 @@
+C:\Users\viait\Documents\GitHub\TedEd-CodingSeries_trial\Episode 2\obj\Debug\net6.0\Episode 2.csproj.AssemblyReference.cache
+C:\Users\viait\Documents\GitHub\TedEd-CodingSeries_trial\Episode 2\obj\Debug\net6.0\Episode 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viait\Documents\GitHub\TedEd-CodingSeries_trial\Episode 2\obj\Debug\net6.0\Episode 2.AssemblyInfoInputs.cache
+C:\Users\viait\Documents\GitHub\TedEd-CodingSeries_trial\Episode 2\obj\Debug\net6.0\Episode 2.AssemblyInfo.cs
+C:\Users\viait\Documents\GitHub\TedEd-CodingSeries_trial\Episode 2\obj\Debug\net6.0\Episode 2.csproj.CoreCompileInputs.cache
