@@ -10,15 +10,8 @@ namespace people {
       // Remember to type the name of Leader in the first input
       public string nameOfLeader = Convert.ToString(Console.ReadLine());
       public bool nameHas2Vowels;
-      public bool nameHas3Vowels;
-      public char Vowel = {
-        'e',
-        'a',
-        'u',
-        'o',
-        'i',
-        'y'
-      };
+      public bool nameHas3Vowels; 
+      public char Vowel = 'a' & 'e' & 'u' & 'o' & 'i';
       // Use this char to support for bool doubledLetter
       public char letter = {
         'a', 'A', 'b', 'B', 'c', 'C',
@@ -40,16 +33,16 @@ namespace people {
         "1"
       };
       public static void Proceed(bool VarToProceed) {
-        return VarToProceed = true;
+        VarToProceed = true;
       }
       public static void CheckBoolRedHair() {
           Console.WriteLine("Specify the correct value of: Does this person have red hair?");
           Console.WriteLine("(Answer by true/false  yes/no  1/0)");
-          answerRedHair = Console.ReadLine();
+          string answerRedHair = Convert.ToString(Console.ReadLine());
           static void checkAnswerRedHair() {
-            if (answerRedHair == "true" || "1" || "yes") {
+            if (answerRedHair = "true" || "1" || "yes") {
               Proceed(RedHair);
-              return answerRedHair = true;
+              return override answerRedHair == true;
             }
             if (answerRedHair == "false" || "0" || "no") {
               return answerRedHair = false;
